@@ -1,0 +1,72 @@
+#logo{
+    position: relative;
+    width: 18vw;
+  }
+
+.container{
+    text-align: center;
+    position: relative;
+  
+}
+
+#submit{
+    position: relative;
+    left: 8vw;
+    margin-top: 3vh;
+    height: 5vh;
+    width: 8vw;
+    font-size: 2vh;
+}
+
+#fields{
+    position: relative;
+    height: 5vh;
+    font-size: 2vh;
+    width: 16vw;
+}
+
+#label{
+    position: relative;
+    left: 15vw;
+    font-size: 1.5vw;
+    width: 21vw;
+    text-align: left;
+}
+
+#table1{
+    position: relative;
+    top: 10vh;
+}
+
+#table1 h1 {
+    font-size: 1.5vw;
+    text-align: left;
+    color: #837e7e;
+}
+
+#enter_data{
+    position: relative;
+    left: 3vw;
+    height: 5vh;
+    width: 17vw;
+    font-size: 2vh;
+}
+
+#top_box{
+    position: relative;
+    top: 6vh;
+}
+#third_div{
+    margin: 0px 7vw;
+    top: 13vh;
+}
+
+#third_div_h1{
+    font-size: 1.5vw;
+    text-align: left;
+    color: #837e7e;
+}
+
+#form .row{
+    margin: 1vh;
+}
